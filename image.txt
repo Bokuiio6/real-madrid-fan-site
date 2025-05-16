@@ -1,0 +1,79 @@
+assets/images/logo.png  —  logo.png  —  "Real Madrid Logo" — SHOULD BE IN: assets/images/
+assets/images/champions-league-15.png  —  champions-league-15.png  —  "15 Champions League Titles" — SHOULD BE IN: assets/images/
+assets/images/hero/training-1.jpg  —  training-1.jpg  —  "Real Madrid Training Session" — SHOULD BE IN: assets/images/hero/
+assets/images/hero/training-2.jpg  —  training-2.jpg  —  "Team Training" — SHOULD BE IN: assets/images/hero/
+assets/images/hero/event-1.jpg  —  event-1.jpg  —  "Club Event" — SHOULD BE IN: assets/images/hero/
+assets/images/hero/event-2.jpg  —  event-2.jpg  —  "Fan Event" — SHOULD BE IN: assets/images/hero/
+assets/images/fans/fan-1.jpg  —  fan-1.jpg  —  "Fan Photo 1" — SHOULD BE IN: assets/images/fans/
+assets/images/fans/fan-2.jpg  —  fan-2.jpg  —  "Fan Photo 2" — SHOULD BE IN: assets/images/fans/
+assets/images/fans/fan-3.jpg  —  fan-3.jpg  —  "Fan Photo 3" — SHOULD BE IN: assets/images/fans/
+assets/images/features/highlights-1.jpg  —  highlights-1.jpg  —  "Match Highlights" — SHOULD BE IN: assets/images/features/
+assets/images/features/news-1.jpg  —  news-1.jpg  —  "Latest News" — SHOULD BE IN: assets/images/features/
+assets/images/features/interview-1.jpg  —  interview-1.jpg  —  "Player Interview" — SHOULD BE IN: assets/images/features/
+assets/images/stadium/bernabeu-banner.jpg  —  bernabeu-banner.jpg  —  "Santiago Bernabéu Stadium" — SHOULD BE IN: assets/images/stadium/
+assets/images/players/courtois.jpg  —  courtois.jpg  —  "Thibaut Courtois" — SHOULD BE IN: assets/images/players/
+assets/images/players/lunin.jpg  —  lunin.jpg  —  "Andriy Lunin" — SHOULD BE IN: assets/images/players/
+assets/images/players/kepa.jpg  —  kepa.jpg  —  "Kepa Arrizabalaga" — SHOULD BE IN: assets/images/players/
+assets/images/players/carvajal.jpg  —  carvajal.jpg  —  "Dani Carvajal" — SHOULD BE IN: assets/images/players/
+assets/images/players/militao.jpg  —  militao.jpg  —  "Éder Militão" — SHOULD BE IN: assets/images/players/
+assets/images/players/alaba.jpg  —  alaba.jpg  —  "David Alaba" — SHOULD BE IN: assets/images/players/
+assets/images/players/vallejo.jpg  —  vallejo.jpg  —  "Jesús Vallejo" — SHOULD BE IN: assets/images/players/
+assets/images/players/nacho.jpg  —  nacho.jpg  —  "Nacho" — SHOULD BE IN: assets/images/players/
+assets/images/players/mendy.jpg  —  mendy.jpg  —  "Ferland Mendy" — SHOULD BE IN: assets/images/players/
+assets/images/players/rudiger.jpg  —  rudiger.jpg  —  "Antonio Rüdiger" — SHOULD BE IN: assets/images/players/
+assets/images/players/garcia.jpg  —  garcia.jpg  —  "Fran García" — SHOULD BE IN: assets/images/players/
+assets/images/players/bellingham.jpg  —  bellingham.jpg  —  "Jude Bellingham" — SHOULD BE IN: assets/images/players/
+assets/images/players/kroos.jpg  —  kroos.jpg  —  "Toni Kroos" — SHOULD BE IN: assets/images/players/
+assets/images/players/modric.jpg  —  modric.jpg  —  "Luka Modrić" — SHOULD BE IN: assets/images/players/
+assets/images/players/valverde.jpg  —  valverde.jpg  —  "Federico Valverde" — SHOULD BE IN: assets/images/players/
+assets/images/players/camavinga.jpg  —  camavinga.jpg  —  "Eduardo Camavinga" — SHOULD BE IN: assets/images/players/
+assets/images/players/tchouameni.jpg  —  tchouameni.jpg  —  "Aurélien Tchouaméni" — SHOULD BE IN: assets/images/players/
+assets/images/players/ceballos.jpg  —  ceballos.jpg  —  "Dani Ceballos" — SHOULD BE IN: assets/images/players/
+assets/images/players/vinicius.jpg  —  vinicius.jpg  —  "Vinicius Jr" — SHOULD BE IN: assets/images/players/
+assets/images/players/rodrygo.jpg  —  rodrygo.jpg  —  "Rodrygo" — SHOULD BE IN: assets/images/players/
+assets/images/players/joselu.jpg  —  joselu.jpg  —  "Joselu" — SHOULD BE IN: assets/images/players/
+assets/images/players/diaz.jpg  —  diaz.jpg  —  "Brahim Díaz" — SHOULD BE IN: assets/images/players/
+assets/images/players/guler.jpg  —  guler.jpg  —  "Arda Güler" — SHOULD BE IN: assets/images/players/
+assets/images/flags/belgium.png  —  belgium.png  —  "Belgium Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/ukraine.png  —  ukraine.png  —  "Ukraine Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/spain.png  —  spain.png  —  "Spain Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/brazil.png  —  brazil.png  —  "Brazil Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/austria.png  —  austria.png  —  "Austria Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/france.png  —  france.png  —  "France Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/germany.png  —  germany.png  —  "Germany Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/england.png  —  england.png  —  "England Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/croatia.png  —  croatia.png  —  "Croatia Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/uruguay.png  —  uruguay.png  —  "Uruguay Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/flags/turkey.png  —  turkey.png  —  "Turkey Flag" — SHOULD BE IN: assets/images/flags/
+assets/images/legends/casillas.jpg  —  casillas.jpg  —  "Iker Casillas" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/ramos.jpg  —  ramos.jpg  —  "Sergio Ramos" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/carlos.jpg  —  carlos.jpg  —  "Roberto Carlos" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/marcelo.jpg  —  marcelo.jpg  —  "Marcelo" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/pepe.jpg  —  pepe.jpg  —  "Pepe" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/zidane.jpg  —  zidane.jpg  —  "Zinedine Zidane" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/makelele.jpg  —  makelele.jpg  —  "Claude Makélélé" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/kroos.jpg  —  kroos.jpg  —  "Toni Kroos" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/raul.jpg  —  raul.jpg  —  "Raúl González" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/benzema.jpg  —  benzema.jpg  —  "Karim Benzema" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/ronaldo.jpg  —  ronaldo.jpg  —  "Ronaldo Nazário" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/cristiano.jpg  —  cristiano.jpg  —  "Cristiano Ronaldo" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/di-stefano.jpg  —  di-stefano.jpg  —  "Alfredo Di Stéfano" — SHOULD BE IN: assets/images/legends/
+assets/images/legends/cannavaro.jpg  —  cannavaro.jpg  —  "Fabio Cannavaro" — SHOULD BE IN: assets/images/legends/
+assets/images/coaches/zidane.jpg  —  zidane.jpg  —  "Zinedine Zidane" — SHOULD BE IN: assets/images/coaches/
+assets/images/coaches/mourinho.jpg  —  mourinho.jpg  —  "José Mourinho" — SHOULD BE IN: assets/images/coaches/
+assets/images/coaches/ancelotti.jpg  —  ancelotti.jpg  —  "Carlo Ancelotti" — SHOULD BE IN: assets/images/coaches/
+assets/images/trophies/champions-league-2022.jpg  —  champions-league-2022.jpg  —  "Champions League 2022" — SHOULD BE IN: assets/images/trophies/
+assets/images/trophies/la-liga-2022.jpg  —  la-liga-2022.jpg  —  "La Liga 2022" — SHOULD BE IN: assets/images/trophies/
+assets/images/trophies/copa-del-rey-2023.jpg  —  copa-del-rey-2023.jpg  —  "Copa del Rey 2023" — SHOULD BE IN: assets/images/trophies/
+assets/images/shop/home-jersey-2024.jpg  —  home-jersey-2024.jpg  —  "Home Jersey 2023/24" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/away-jersey-2024.jpg  —  away-jersey-2024.jpg  —  "Away Jersey 2023/24" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/training-kit-2024.jpg  —  training-kit-2024.jpg  —  "Training Kit 2023/24" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/scarf-2024.jpg  —  scarf-2024.jpg  —  "Official Scarf" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/cap-2024.jpg  —  cap-2024.jpg  —  "Official Cap" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/jacket-2024.jpg  —  jacket-2024.jpg  —  "Official Jacket" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/ball-2024.jpg  —  ball-2024.jpg  —  "Official Match Ball" — SHOULD BE IN: assets/images/shop/
+assets/images/shop/mug-2024.jpg  —  mug-2024.jpg  —  "Official Mug" — SHOULD BE IN: assets/images/shop/
+assets/images/events/classico-2024.jpg  —  classico-2024.jpg  —  "El Clásico 2024" — SHOULD BE IN: assets/images/events/
+assets/images/events/champions-league-final-2024.jpg  —  champions-league-final-2024.jpg  —  "Champions League Final 2024" — SHOULD BE IN: assets/images/events/
+assets/images/fan-gallery/bernabeu-tour.jpg  —  bernabeu-tour.jpg  —  "Bernabéu Tour" — SHOULD BE IN: assets/images/fan-gallery/
+assets/images/fan-gallery/match-day.jpg  —  match-day.jpg  —  "Match Day" — SHOULD BE IN: assets/images/fan-gallery/ 
